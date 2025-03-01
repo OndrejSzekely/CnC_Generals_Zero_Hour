@@ -9,6 +9,7 @@ This repository includes source code for Command & Conquer Generals, and its exp
 If you wish to rebuild the source code and tools successfully you will need to find or write new replacements (or remove the code using them entirely) for the following libraries;
 
 - DirectX SDK (Version 9.0 or higher) (expected path `\Code\Libraries\DirectX\`)
+  _In case of error during the SDK installation see [here](https://walbourn.github.io/known-issue-directx-sdk-june-2010-setup-and-the-s1023-error/)_
 - STLport (4.5.3) - (expected path `\Code\Libraries\STLport-4.5.3`)
 - 3DSMax 4 SDK - (expected path `\Code\Libraries\Max4SDK\`)
 - NVASM - (expected path `\Code\Tools\NVASM\`)
